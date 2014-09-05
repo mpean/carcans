@@ -1,0 +1,32 @@
+{
+	"accueil" : {
+		"menu" : "Accueil",
+		"titre" : "Bienvenue !",
+		"intro" : "Vous souhaitez passer des vacances près de l'océan, au coeur de la forêt et dans un endroit où la gastronomie rime avec bons vins ?<br>Vous voulez faire du surf, du vélo, du cerf volant ou juste farnienter ?<br>Venez dans le Médoc ! Venez à Carcans Plage !<br><br>Au bord de l'Atlantique,<br>en plein dans la forêt de pins des Landes,<br>à 40 km des plus grands vignobles du Médoc,<br>à 70 km de Bordeaux (ville classée au patrimoine mondial de l'UNESCO),<br>Carcans vous accueille pour vous faire passer des vacances exceptionnelles.<br><br>Pour vous loger, nous vous proposons de louer une de nos deux confortables maisons à Carcans Plage, à 100 m de l'océan.<br>La première (\"L'Oyat\") dispose de 3 chambres et la seconde (\"Le Gourbet\") de 4 chambres.<br>Ce site est destiné à vous donner des informations sur ces maisons.<br>Si vous voulez en savoir plus ou si vous êtes intéressés pour venir, contactez-nous !",
+		"fin" : "Bonne visite et à très bientôt à Carcans Plage !"
+		},
+	"gourbet" : {
+		"menu" : "Le Gourbet",
+		"intro" : "Intro gourbet"
+		},
+	"oyat" : {
+		"menu" : "L'Oyat",
+		"intro" : "Intro oyat"
+		},
+	"infos" : {
+		"menu" : "Infos pratiques",
+		"intro" : "Intro infos pratiques"
+		},
+	"liens" : {
+		"menu" : "Liens",
+		"intro" : "Intro liens"		
+		},
+	"acces" : {
+		"menu" : "Accès",
+		"intro" : "Intro accès"
+		},
+	"contact" : {
+		"menu" : "Contact",
+		"intro" : "Intro contact"
+	}
+}

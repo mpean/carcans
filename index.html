@@ -1,0 +1,64 @@
+<!doctype html>
+<html ng-app="appModule">
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Les Gourbets de Carcans Plage</title>
+	<link rel="stylesheet"
+	href="./lib/bootstrap-3.2.0-dist/css/bootstrap.css">
+	<link rel="stylesheet"
+	href="css/style.css">
+</head>
+<body ng-controller="appController">
+	<div class="container">
+	<nav class="navbar navbar-default" role="navigation">
+		<div class="container-fluid">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse"
+				data-target="#bs-example-navbar-collapse">
+				<span class="sr-only">Toggle navigation</span> <span
+				class="icon-bar"></span> <span class="icon-bar"></span> <span
+				class="icon-bar"></span>
+			</button>
+			<a class="navbar-brand" href="#">Les Gourbets de Carcans</a>
+		</div>
+
+		<!-- Collect the nav links, forms, and other content for toggling -->
+		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse">
+			<ul class="nav navbar-nav">
+				<li><a href="#/accueil">{{texte.accueil.menu}}</a></li>
+				<li><a href="#/gourbet">{{texte.gourbet.menu}}</a></li>
+				<li><a href="#/oyat">{{texte.oyat.menu}}</a></li>
+				<li><a href="#/infos">{{texte.infos.menu}}</a></li>
+				<li><a href="#/liens">{{texte.liens.menu}}</a></li>
+				<li><a href="#/acces">{{texte.acces.menu}}</a></li>
+				<li><a href="#/contact">{{texte.contact.menu}}</a></li>
+			</ul>
+
+			 <form class="navbar-form navbar-right" role="form">
+			 	<button type="button" class="btn btn-default navbar-btn-xs" ng-click="selectLangue('fr')">fr</button>
+			 	<button type="button" class="btn btn-default navbar-btn-xs"  ng-click="selectLangue('en')">en</button>
+		     </form>
+		</div>
+		<!-- /.navbar-collapse -->
+	</div>
+	<!-- /.container-fluid -->
+</nav>
+
+<ng-view></ng-view>
+
+<div class="well"><span class="badge">Tel: (+33) 5 56 58 21 43</span></div>
+
+<script src="lib/jquery-2.1.1/jquery-2.1.1.js"></script>
+<script src="lib/angular-1.2.0/angular.js"></script>
+<script src="lib/angular-1.2.0/angular-route.min.js"></script>
+<script src="lib/angular-1.2.0/angular-sanitize.js"></script>
+<script src="lib/bootstrap-3.2.0-dist/js/bootstrap.js"></script>
+<script src="lib/ui-bootstrap-0.11.0/ui-bootstrap-tpls-0.11.0.js"></script>	
+
+<script src="js/module.js"></script>
+<script src="js/controller.js"></script>
+</div>
+</body>
+</html>
+

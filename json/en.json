@@ -1,0 +1,33 @@
+{
+	"accueil" : {
+		"menu" : "Home",
+		"titre" : "Welcome !",
+		"intro" : "Do you want to spend some time  in a place where gastronomy and fine wines go hand in hand ?<br>Close to the ocean ? In the middle of the forest ?<br>Do you want to surf, walk or cycle beneath the trees or just enjoy the time in a relaxing place ?<br>Come to the Médoc ! Come to Carcans Plage !<br><br>On the Atlantic shore of France,<br>in the middle of the pine forest of \"les Landes\",<br>less than 40 km away from the best Médoc vineyards,<br>70km away from Bordeaux (inscribed in World Heritage by Unesco),<br>Carcans Plage welcomes you for a wonderful holiday.<br><br>Once there in Carcans plage, you can stay in one of our 2 cottages which are only 100m away from the beach.<br>The first one (\"L'Oyat\") is a 4 bedroom cottage, the second one (\"Le Gourbet\") is a 4 bedroom cottage.<br>This website aims to give you more information about these cottages.<br>If you want to know more or if you are interested in renting, contact us !",
+		"fin" : "Enjoy your visit and see you soon in Carcans Plage !"
+		},
+	"gourbet" : {
+		"menu" : "Le Gourbet",
+		"intro" : "Intro gourbet"
+		},
+	"oyat" : {
+		"menu" : "L'Oyat",
+		"intro" : "Intro oyat"
+		},
+	"infos" : {
+		"menu" : "Amenities",
+		"intro" : "Intro amenities"
+		},
+	"liens" : {
+		"menu" : "Links",
+		"intro" : "Intro links"
+		},
+	"acces" : {
+		"menu" : "Access",
+		"intro" : "Intro access"
+		},
+	"contact" : {
+		"menu" : "Contact",
+		"intro" : "Intro contact"		
+	}
+}
+
