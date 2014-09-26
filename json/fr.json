@@ -2,8 +2,8 @@
 	"accueil" : {
 		"menu" : "Accueil",
 		"titre" : "Bienvenue !",
-		"intro" : "Vous souhaitez passer des vacances près de l'océan, au coeur de la forêt et dans un endroit où la gastronomie rime avec bons vins ?<br>Vous voulez faire du surf, du vélo, du cerf volant ou juste farnienter ?<br>Venez dans le Médoc ! Venez à Carcans Plage !<br><br>Au bord de l'Atlantique,<br>en plein dans la forêt de pins des Landes,<br>à 40 km des plus grands vignobles du Médoc,<br>à 70 km de Bordeaux (ville classée au patrimoine mondial de l'UNESCO),<br>Carcans vous accueille pour vous faire passer des vacances exceptionnelles.<br><br>Pour vous loger, nous vous proposons de louer une de nos deux confortables maisons à Carcans Plage, à 100 m de l'océan.<br>La première (\"L'Oyat\") dispose de 3 chambres et la seconde (\"Le Gourbet\") de 4 chambres.<br>Ce site est destiné à vous donner des informations sur ces maisons.<br>Si vous voulez en savoir plus ou si vous êtes intéressés pour venir, contactez-nous !",
-		"fin" : "Bonne visite et à très bientôt à Carcans Plage !"
+		"intro" : "Vous souhaitez passer des vacances pr&egraves de l'oc&eacutean, au coeur de la for&ecirct et dans un endroit o&ugrave la gastronomie rime avec bons vins ?<br>Vous voulez faire du surf, du v&eacutelo, du cerf volant ou juste farnienter ?<br>Venez dans le M&eacutedoc ! Venez &agrave Carcans Plage !<br><br>Au bord de l'Atlantique,<br>en plein dans la for&ecirct de pins des Landes,<br>&agrave 40 km des plus grands vignobles du M&eacutedoc,<br>&agrave 70 km de Bordeaux (ville class&eacutee au patrimoine mondial de l'UNESCO),<br>Carcans vous accueille pour vous faire passer des vacances exceptionnelles.<br><br>Pour vous loger, nous vous proposons de louer une de nos deux confortables maisons &agrave Carcans Plage, &agrave 100 m de l'oc&eacutean.<br>La premi&egravere (\"L'Oyat\") dispose de 3 chambres et la seconde (\"Le Gourbet\") de 4 chambres.<br>Ce site est destin&eacute &agrave vous donner des informations sur ces maisons.<br>Si vous voulez en savoir plus ou si vous &ecirctes int&eacuteress&eacutes pour venir, contactez-nous !",
+		"fin" : "Bonne visite et &agrave tr&egraves bientôt &agrave Carcans Plage !"
 		},
 	"gourbet" : {
 		"menu" : "Le Gourbet",
@@ -22,8 +22,8 @@
 		"intro" : "Intro liens"		
 		},
 	"acces" : {
-		"menu" : "Accès",
-		"intro" : "Intro accès"
+		"menu" : "Acc&egraves",
+		"intro" : "Intro acc&egraves"
 		},
 	"contact" : {
 		"menu" : "Contact",
